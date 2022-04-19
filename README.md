@@ -1,3 +1,5 @@
+# Exercise-06d-3D-Particles-Animation
+
 Exercise for MSCH-C220
 
 An exploration of Godot's 3D Particles and 3D Sprites.
